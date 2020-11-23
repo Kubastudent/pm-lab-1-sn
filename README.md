@@ -33,7 +33,7 @@ Odpowiedź: Pieszy wciskający przycisk zmienia światła samochodowe od razu na
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Stanem niskim (LOW) możemy sterować diodami LED, dzięki możliwości porównania ich do przekaźnika. Stanem niskim i wysokim można załączać przekaźnik.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
